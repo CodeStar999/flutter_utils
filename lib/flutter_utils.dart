@@ -1,5 +1,7 @@
 library flutter_utils;
 
+export 'package:go_router/go_router.dart';
+
 export 'src/provider/controller/base_controller.dart';
 export 'src/provider/event_bus/global_event_bus.dart';
 export 'src/provider/lifecycle/lifecycle_route_observer.dart';
