@@ -3,6 +3,8 @@ library flutter_utils;
 export 'package:go_router/go_router.dart';
 
 export 'src/provider/controller/base_controller.dart';
+export 'src/provider/controller/network_mixin.dart';
+export 'src/provider/controller/network_type.dart';
 export 'src/provider/event_bus/global_event_bus.dart';
 export 'src/provider/lifecycle/lifecycle_route_observer.dart';
 export 'src/provider/lifecycle/lifecycle_state.dart';
